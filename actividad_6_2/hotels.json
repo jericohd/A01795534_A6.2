@@ -1,0 +1,8 @@
+[
+    {
+        "hotel_id": 1,
+        "name": "Test Hotel",
+        "location": "Test City",
+        "rooms": 20
+    }
+]
